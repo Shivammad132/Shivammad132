@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivam Maddheshiya</h1>
+<h3 align="center">Python Developer | Web Developer</h3>
 
-<!--
-**Shivammad132/Shivammad132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 About Me
+- 🌱 Learning Python, Flask, React
+- 💻 Interested in Backend Development
+- 📍 From Kopaganj
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+- Python
+- HTML, CSS, JavaScript
+- React
+- Flask
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/yourusername
+- LinkedIn: your-link
+
