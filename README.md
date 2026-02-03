@@ -30,7 +30,7 @@
 
 - 🌐 GitHub: https://github.com/YOUR_USERNAME  
 - 💼 LinkedIn: https://www.linkedin.com/in/shivam-maddheshiya-685b9426a/
--     Contact: 8090653148
+
 
 ---
 
